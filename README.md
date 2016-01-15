@@ -1,7 +1,9 @@
-# SetDesktopBackground
-Grabs an image from reddit and sets it to the desktop background.
+# GNOME Desktop Controller
 
-This is for GNOME desktop environments.
+A suite of scripts for customizing the GNOME Shell Linux desktop environment.
+
+# SetGnomeBackground
+Grabs the top image from a selected subreddit and sets it to the desktop background.
 
 # How to use:
 Execute run.sh
